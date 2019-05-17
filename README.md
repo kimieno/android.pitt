@@ -1,6 +1,6 @@
 ## 登入畫面
 
-![Image of Login Page](https://kimieno.github.io/android.pitt/images/IMG_5101.jpg?s=200)
+![Image of Login Page](https://kimieno.github.io/android.pitt/images/IMG_5101.jpg)
 
 
 ## Welcome to GitHub Pages
