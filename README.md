@@ -1,2 +1,2 @@
 # android.pitt
-Documentaion of Pitt on Android 
+Android 版 PiTT 使用手冊
