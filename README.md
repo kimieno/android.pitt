@@ -1,4 +1,4 @@
-<div align="center"><a href="https://play.google.com/store/apps/details?id=com.ihad.ptt" target="_blank"><img src="./v1/images/google-play-badge.png" width="150" height="55" ></a></div>
+<div align="center"><a href="https://play.google.com/store/apps/details?id=com.ihad.ptt" target="_blank"><img src="./v1/images/google-play-badge.png" width="240" height="93" ></a></div>
 <div align="center">或是<a href="https://play.google.com/apps/testing/com.ihad.ptt" target="_blank">加入測試計畫</a></div>
 
 # 操作手冊
