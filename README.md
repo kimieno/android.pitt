@@ -21,7 +21,6 @@
 [編輯關注看板](./docs/subs_boards.md#編輯關注看板)  
 [閱讀紀錄](./docs/records_page.md#閱讀紀錄)  
 [閱讀紀錄分類](./docs/record_categories.md#閱讀紀錄分類)  
-[閱讀紀錄顯示方式](./docs/records_group.md#閱讀紀錄顯示方式)  
 [刪除閱讀紀錄](./docs/delete_records.md#刪除閱讀紀錄)  
 [最近造訪](./docs/top_boards.md#最近造訪)  
 [最近造訪選項](./docs/top_board_options.md#最近造訪選項)  
