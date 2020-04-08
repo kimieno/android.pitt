@@ -22,4 +22,4 @@
 6. ### 刪除全部
 點擊後所有設定  
   
-[返回首頁](https://kimieno.github.io/ios.pitt) 
+[返回首頁](https://kimieno.github.io/android.pitt) 
