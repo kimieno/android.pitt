@@ -28,7 +28,6 @@
 [最近造訪排序](./docs/top_boards_sorting.md#最近造訪排序)  
 [分類看板](./docs/category_page.md#分類看板)  
 [鄉民名冊](./docs/ptter_page.md#鄉民名冊)  
-[名冊選項](./docs/ptter_options.md#名冊選項)  
 [水球聊天](./docs/water_polo.md#水球聊天)  
 [文章列表](./docs/articles_page.md#文章列表)  
 [文章列表選項](./docs/article_options.md#文章列表選項)  
