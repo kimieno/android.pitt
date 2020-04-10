@@ -50,7 +50,6 @@
 [預覽項目](./docs/preview_item.md#預覽項目)  
 [預覽項目選項](./docs/preview_options.md#預覽項目選項)  
 [網址項目](./docs/link_item.md#網址項目)  
-[網址項目選項](./docs/link_options.md#網址項目選項)  
 [文章代碼項目](./docs/aid_link_item.md#文章代碼項目)  
 [剪貼簿](./docs/clipboard_page.md#剪貼簿)  
 [文章內容瀏覽模式](./docs/ansi_mode.md#文章內容瀏覽模式)  
