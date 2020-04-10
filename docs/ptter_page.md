@@ -20,4 +20,4 @@
 6. ### 名冊項目
 點擊可開啟水球聊天頁面，長按可顯示使用者資訊頁面  
   
-[返回首頁](https://kimieno.github.io/ios.pitt) 
+[返回首頁](https://kimieno.github.io/android.pitt) 

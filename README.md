@@ -31,7 +31,7 @@
 [水球聊天](./docs/water_polo.md#水球聊天)  
 [文章列表](./docs/articles_page.md#文章列表)  
 [文章列表選項](./docs/article_options.md#文章列表選項)  
-[搜尋文章分頁](./docs/search_article_page.md#搜尋文章分頁)  
+[文章列表選項](./docs/articles_function.md#文章列表功能)  
 [搜尋文章](./docs/search_articles.md#搜尋文章)  
 [搜尋文章代碼](./docs/search_aid.md#搜尋文章代碼)  
 [刪除搜尋文章紀錄](./docs/search_article_history.md#刪除搜尋文章紀錄)  
