@@ -18,4 +18,4 @@
 將此網址加入 SafariVC 例外清單在開啟以 SafariVC 瀏覽網頁時可以忽略此網址，  
 避免有對應 App 可開啟時無法導向至該 App  
   
-[返回首頁](https://kimieno.github.io/ios.pitt) 
+[返回首頁](https://kimieno.github.io/android.pitt) 
