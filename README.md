@@ -13,7 +13,7 @@
 [信件選項](./docs/mail_options.md)  
 [話題功能](./docs/topics.md)  
 [話題列表](docs/topics_page.md)  
-[延燒話題選項](./docs/new_topic_type.md)  
+[最新消息類型](./docs/new_topic_type.md)  
 [延燒話題選項](./docs/topic_options.md)  
 [延燒話題設定](./docs/topic_settings.md)  
 [編輯隱藏看板](./docs/hidden_boards.md)  
@@ -68,8 +68,8 @@
 [從暫存檔恢復](./docs/revert.md)  
 
 # 問與答
-[簡介](#-intro)  
-[連線方式](#protocol)  
+[簡介](#1)  
+[連線方式](#2)  
 [無法登入](#無法登入)  
 [連線緩慢](#連線緩慢)  
 [樓層數消失](#樓層數消失)  
@@ -80,9 +80,9 @@
 [信件通知](#信件通知)  
 [封鎖樣式](#封鎖樣式)  
   
-
-## 簡介
-####### Intro
+  
+###### 1
+#### 簡介
 
 PTT 為 BBS 站台，原始連線方式需使用個人電腦的終端機才能連線，  
 後來出現了 PCMAN 等更加方便的電腦版客戶端，  
@@ -93,8 +93,9 @@ PiTT 為第三方手機版瀏覽器，由於現今社會大眾傾向於使用手
   
 [返回頁首](#問與答) 
 
+###### 2
 ## 連線方式
-###### protocol
+
 
 PTT 的連線方式有很多種
 
