@@ -1,3 +1,4 @@
+##### o
 ## 最新消息話題類型
 
 ![Image of Topic Settings Options](../v1/images/new_topic_type.png) 
