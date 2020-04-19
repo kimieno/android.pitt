@@ -26,13 +26,13 @@ PiTT 有加入了以下幾種廣告設定
 
 ### 關閉使用原生廣告
 
-將在畫面上方顯示橫幅廣告，固定位置不隨捲動移動
+將在畫面上方顯示橫幅廣告，固定位置不隨畫面捲動
 
 ![Image of Account Options](../v1/images/ad_banner_top.png) 
 
 ### 關閉橫幅廣告置於螢幕上方
 
-將在畫面下方顯示橫幅廣告，固定位置不隨捲動移動
+將在畫面下方顯示橫幅廣告，固定位置不隨畫面捲動
 
 ![Image of Account Options](../v1/images/ad_banner_bottom.png) 
 
