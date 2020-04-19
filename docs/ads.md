@@ -1,0 +1,35 @@
+##### o
+## 廣告設定
+
+為迎合不同的使用者習慣
+PiTT 有加入了以下幾種廣告設定
+
+![Image of Account Options](../v1/images/ad_settings.png) 
+
+
+1. ### 開啟使用原生廣告
+
+將在列表不同位置插入原生廣告，可隨捲動移動，有卡片與橫幅兩種
+
+![Image of Account Options](../v1/images/ad_native.png) 
+
+2. ### 僅顯示原生橫幅廣告
+
+將在列表不同位置插入原生廣告，只有橫幅一種
+
+![Image of Account Options](../v1/images/ad_native_banner.png) 
+
+3. ### 關閉使用原生廣告
+
+將在畫面上方顯示橫幅廣告，固定位置不隨捲動移動
+
+![Image of Account Options](../v1/images/ad_banner_top.png) 
+
+4. ### 關閉橫幅廣告置於螢幕上方
+
+將在畫面下方顯示橫幅廣告，固定位置不隨捲動移動
+
+![Image of Account Options](../v1/images/ad_banner_bottom.png) 
+
+  
+[返回首頁](https://kimieno.github.io/android.pitt) 
