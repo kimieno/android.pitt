@@ -80,6 +80,12 @@
 [實名發布](#9)  
 [信件通知](#10)  
 [封鎖樣式](#11)  
+
+# 條款與政策
+[PiTT使用條款](./docs/terms_and_policy.md#o)  
+[PiTT隱私權政策](./docs/privacy_policy.md#o)  
+[PiTT贊助合約與條款](./docs/subscription_terms_and_conditions.md#o)  
+[PTT使用條款](https://www.ptt.cc/index.ua.html)  
   
   
 ##### 1
