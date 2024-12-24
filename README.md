@@ -87,6 +87,7 @@
 [PiTT隱私權政策](./docs/privacy_policy.md#o)  
 [PiTT贊助合約與條款](./docs/subscription_terms_and_conditions.md#o)  
 [PTT使用條款](https://www.ptt.cc/index.ua.html)  
+[兒童安全與內容政策聲明](./docs/csae.md#o)
   
   
 ##### 1
